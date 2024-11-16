@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "704659796597",
+    "project_id": "work-nest-proyectofinal",
+    "storage_bucket": "work-nest-proyectofinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704659796597:android:fecc5193a24fa8dc03fe3c",
+        "android_client_info": {
+          "package_name": "com.example.worknest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqnxVA0DCsvY87gnD_lmEVamatzQCdxHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704659796597:android:f253a3a869696d2303fe3c",
+        "android_client_info": {
+          "package_name": "com.example.worknestadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqnxVA0DCsvY87gnD_lmEVamatzQCdxHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
